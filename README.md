@@ -2,7 +2,7 @@
  
 Features
 * Manage dogs (Add, view edit remove)
-* Data stored on localstorage uing asyncstorage
+* Data stored on localstorage using asyncstorage
 
 Libraries used
 * Valtio for state management 

@@ -8,6 +8,7 @@ Libraries used
 * Valtio for state management 
 * react navigation v6
 * react native v 0.67.2
+* react hook form 
 
 Tests
 * test created for dogItem component

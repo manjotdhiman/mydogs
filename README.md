@@ -18,4 +18,5 @@ Todo
 * Add some animations 
 * create dog profile
 * create test for add, edit and list component
+* add lang translation using i18
 

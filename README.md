@@ -1,4 +1,4 @@
-# My dogs RN
+# My dogs React native
  
 Features
 * Manage dogs (Add, view edit remove)
